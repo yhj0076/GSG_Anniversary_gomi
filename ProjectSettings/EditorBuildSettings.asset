@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/seguAvoid/Scenes/SA/SA_StartGame.unity
+    guid: 26b11f57997ed6f4c91c8586efee1a80
+  - enabled: 1
+    path: Assets/seguAvoid/Scenes/SA/SA_Main Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/seguAvoid/Scenes/SA/SA_How to play.unity
+    guid: 04633251cc115804a8a0d6b52b42da38
+  - enabled: 1
+    path: Assets/seguAvoid/Scenes/SA/SA_GameOver.unity
+    guid: 0dacd1dbcbd4cb44da0c8082fbb87767
+  - enabled: 1
+    path: Assets/seguAvoid/Scenes/SA/SA_Cleared.unity
+    guid: 4420e2dc070c47245b5db343500a5200
+  - enabled: 0
+    path: Assets/3DUnityGame/SG_Scene/RunningGameScene_SG.unity
+    guid: 65db7d5560ae64e489221ffb3037abf2
+  m_configObjects: {}
